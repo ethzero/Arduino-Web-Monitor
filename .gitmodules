@@ -1,0 +1,6 @@
+[submodule "_assets/bootstrap"]
+	path = _assets/bootstrap
+	url = git://github.com/twitter/bootstrap.git
+[submodule "_assets/js/ajaxpoll"]
+	path = _assets/js/ajaxpoll
+	url = git@github.com:ethzero/ajaxPoll.git
